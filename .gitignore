@@ -1,0 +1,18 @@
+.env
+.env.local
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+n8n/data/
+eval/runs/
+*.sqlite
+*.db
+credentials*.json
+token*.json
+WORKPLAN.md
+
+# Arbeitsmaterial: bleibt lokal, nicht im oeffentlichen Repo
+docs/ARCHITEKTUR.md
